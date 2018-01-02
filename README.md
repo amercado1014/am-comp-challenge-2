@@ -7,4 +7,4 @@ Static Comp Challange
 ![static-comp](static-comp-2.png)
 
 My Static Comp
-![my-static-comp](my static-comp-2.png)
+![my-static-comp](my%20static-comp-2.png)
